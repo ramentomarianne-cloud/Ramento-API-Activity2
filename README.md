@@ -15,3 +15,7 @@
 14. - Answer: Its important because HTTP status code communicate meaning not just data. Its crucial for clean communication between client and server.
 15. **4. Testing:**
 16. - <img width="1366" height="728" alt="Get-Request" src="https://github.com/user-attachments/assets/54da0161-438e-4cab-a183-8f4bbc4c8b2c" />
+17. Why did I choose to Embed the Review?
+18. Answer: A review is short and belongs strictly to that dish.
+19. Why did I choose to Reference the Chef?
+20. Answer: A Chef exists even if they aren't cooking. Multiple dishes can share one Chef. 
