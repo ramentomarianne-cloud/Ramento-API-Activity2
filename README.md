@@ -18,4 +18,12 @@
 17. Why did I choose to Embed the Review?
 18. Answer: A review is short and belongs strictly to that dish.
 19. Why did I choose to Reference the Chef?
-20. Answer: A Chef exists even if they aren't cooking. Multiple dishes can share one Chef. 
+20. Answer: A Chef exists even if they aren't cooking. Multiple dishes can share one Chef.
+21. What is the difference between Authentication and Authorization in our code?
+22. Answer: Authentication verifies the user’s identity through login credentials, while authorization determines what actions or resources the authenticated user is allowed to access based on their role.
+23. Why did we use bcryptjs instead of saving passwords as plain text in MongoDB?
+24. Answer: We use bcryptjs to hash passwords so they are stored securely in the database instead of plain text, protecting user data if the database is compromised.
+25. What does the protect middleware do when it receives a JWT from the client?
+26. Answer: The protect middleware verifies the JWT from the request header, decodes the user information, and allows access to the route if the token is valid.
+
+
